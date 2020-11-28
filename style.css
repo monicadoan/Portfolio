@@ -1,0 +1,87 @@
+h1 {
+    font-style: italic;
+    font-size: 50px;
+    text-decoration: underline;
+    color: blue;
+
+}
+
+#about-me-heading {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: bold;
+    font-style: italic;
+    color: navy;
+}
+
+.subtitle-text {
+    color: black;
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    /*border-width: 3px;*/
+    /*border-color: salmon;*/
+    /*border-style: solid;*/
+    border: 2px dashed black; 
+    border-radius: 5px;
+    /*padding-top: 5px;*/
+    /*padding-left: 5px;*/
+    padding: 15px
+    /*margin-left: 50px;*/
+    /*margin-right: 50px;*/
+    margin: 0 10px 0 10px;
+    background-color: #DCDCDC; 
+}
+
+#key-skills-heading{ 
+    font-style: bold;
+    font-style: italic;
+    text-decoration: underline;
+    color: navy;
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 25px;
+}
+
+#edu-and-experience-heading{
+    font-style: bold;
+    font-style: italic;
+    text-decoration: underline;
+    color: pink;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+
+}
+
+#find-me-on-heading {
+    color: green;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    font-size: 15px
+
+}
+
+#key-skills-list {
+    font-size: 15px;
+    color: red; 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    background-color: 	#DCDCDC;
+    border: 2px solid black;
+
+}
+
+#edu-and-experience-list { 
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: green;
+    background-color: 	#DCDCDC;
+    border: 2px solid black;
+
+}
+
+#about-me-text {
+    colour: red;
+    border: 1px solid black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 15px;
+    border-radius: 3px; 
+    background-color:	#DCDCDC;
+
+}

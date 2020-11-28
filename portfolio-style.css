@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+}
+
+.portfolio-card {
+    border: 1px solid black;
+    width: 400px;
+    background-color: navy;
+    color: white;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+
+}
+
+.portfolio-background { 
+    background-color: #f3a712;
+    padding: 20px;
+}
+.outer-box { 
+    display: flex;
+    justify-content: space-around;
+}
+
+.box-one {
+    border: 1px solid black;
+    width: 400px;
+    background-color: navy;
+    color: white;
+    margin: 0 auto;
+
+}
+
+.box-two {
+    border: 1px solid black;
+    width: 400px;
+    background-color: navy;
+    color: white;
+    margin: 0 auto;
+
+}
+
+.box-three {
+    border: 1px solid black;
+    width: 400px;
+    background-color: navy;
+    color: white;
+    margin: 0 auto;
+    font size: 15px;
+}
